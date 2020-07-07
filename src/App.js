@@ -189,7 +189,7 @@ class App extends Component {
   
   render() {  
     return (  
-        <div style="background-color:Black;"> 
+        <div> 
           <div className="title">
             <p>Tic Tac Toe</p>
           </div>
