@@ -191,7 +191,7 @@ class App extends Component {
     return (  
         <div> 
           <div className="title">
-            <p>React Tic Tac Toe</p>
+            <p>Tic Tac Toe</p>
           </div>
 
           {
