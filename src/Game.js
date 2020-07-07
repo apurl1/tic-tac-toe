@@ -77,7 +77,7 @@ class Game extends React.Component {
         confirmButtonColor: 'rgb(208,33,41)',
         cancelButtonColor: '#aaa',
         cancelButtonText: 'Nope',
-        confirmButtonText: 'Yea!',
+        confirmButtonText: 'Yeet',
         width: 275,
         customClass: {
             heightAuto: false,
